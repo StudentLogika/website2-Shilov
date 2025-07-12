@@ -1,0 +1,28 @@
+header{
+text-align: center;
+color: purple;
+background-color: black;
+font-size: small;
+}
+body{
+background-color: blueviolet;
+}
+
+.logo{
+    width: 100px;
+    height: 70px;
+}
+
+nav {text-align: center;}
+nav a {
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  border: 3px solid navy;
+  border-radius: 10px;
+  background-color: navy;
+} 
+.popular {
+  background-color:white;
+  color:royalblue;
+}
